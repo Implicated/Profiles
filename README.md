@@ -1,4 +1,3 @@
-# WebProxy
 ## Software
  - [ShadowsocksX-NG-R8](https://github.com/paradiseduo/ShadowsocksX-NG-R8/tree/develop)
  - [Surge](https://manual.nssurge.com/book/understanding-surge/cn/)
@@ -7,7 +6,6 @@
  - [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
  - [ClashX](https://github.com/yichengchen/clashX)
 ## Rule
- - [lhie1](https://github.com/lhie1/Rules/tree/master)
  - [Apple Nuts](https://github.com/Hackl0us/SS-Rule-Snippet)
  - [Rules And Scripts](https://github.com/blackmatrix7/ios_rule_script)
  - [神机规则](https://github.com/DivineEngine/Profiles/tree/master)
