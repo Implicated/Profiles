@@ -17,5 +17,5 @@
  - [分流](https://limbopro.xyz/archives/2561.html)
 
 ```shell
-rename -e 's/\.list/\.ini/' Ruleset/*.list Ruleset/*/*.list Ruleset/*/*/*.list Ruleset/*/*/*/*.list 
+rename -e 's/\.list/\.ini/' **/*.list 
 ```
