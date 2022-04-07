@@ -1,9 +1,8 @@
 ## Software
- - [ShadowsocksX-NG-R8](https://github.com/paradiseduo/ShadowsocksX-NG-R8/tree/develop)
- - [Surge](https://manual.nssurge.com/book/understanding-surge/cn/)
- - [Surge Author](https://blankwonder.medium.com)
- - [Clash](https://github.com/Dreamacro/clash/tree/v1.6.0)
+ - [Surge](https://nssurge.com)
+ - [Clash](https://github.com/Dreamacro/clash/tree/master)
  - [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)
+ - [Clash For Android](https://github.com/Kr328/ClashForAndroid)
  - [ClashX](https://github.com/yichengchen/clashX)
 ## Rule
  - [Apple Nuts](https://github.com/Hackl0us/SS-Rule-Snippet)
@@ -13,6 +12,8 @@
  - [DivineEngine Circumvention Technology Wiki](https://www.notion.so/DivineEngine-Circumvention-Technology-Wiki-0fdb36a8d71a4151983d23fbc866759c)
  - [o1xhack](https://o1xhack.com/2020/06/21/surge/)
  - [分流](https://limbopro.xyz/archives/2561.html)
+## Blog
+- [Surge Author](https://blankwonder.medium.com)
 
 ```shell
 rename -e 's/\.list/\.ini/' **/*.list 
