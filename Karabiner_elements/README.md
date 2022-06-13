@@ -2,4 +2,4 @@
 
 [PowerKeys](https://github.com/PowerKeys/PowerKeys)
 
-[Number&Arrow](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Implicated/Profiles/master/Karabiner_elements/Number%26Arrow.json)
+<a ref="karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Implicated/Profiles/master/Karabiner_elements/Number%26Arrow.json">Number&Arrow </a>
