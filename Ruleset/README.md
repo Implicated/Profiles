@@ -18,3 +18,6 @@
 ```shell
 rename -e 's/\.list/\.ini/' **/*.list 
 ```
+
+## Merge Log
+[Commits on Apr 29, 2022](https://github.com/DivineEngine/Profiles/commit/cb0883e8562a947f8a6b229784cfe797fd147cbb)
