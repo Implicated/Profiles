@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,bjmantis.net,🌐Direct
 
 PROCESS-NAME,idea,🌐Direct
 PROCESS-NAME,datagrip,🌐Direct
-PROCESS-NAME,datagrip,🌐Direct
 PROCESS-NAME,UI Browser,🌑Proxy
 PROCESS-NAME,Alfred,🌑Proxy
 # PROCESS-NAME,MoneyWiz 3,⛔️Reject
